@@ -1,3 +1,4 @@
 # node-udemy
-Nodejs class notes. Added some text in vscode.
+## Notes
+Nodejs class notes. Added some text in vscode. This markdown mode is cool.
 
