@@ -1,2 +1,3 @@
 # node-udemy
-Nodejs class
+Nodejs class notes.
+
